@@ -12,10 +12,10 @@ var monImage = document.querySelector('img');
 
 monImage.onclick = function() {
     var maSrc = monImage.getAttribute('src');
-    if(maSrc === 'images/hills.png') {
-      monImage.setAttribute ('src','images/mountains.png');
+    if(maSrc === 'hills.png') {
+      monImage.setAttribute ('src','mountains.png');
     } else {
-      monImage.setAttribute ('src','images/hills.png');
+      monImage.setAttribute ('src','hills.png');
     }
 }
 var monBouton = document.querySelector('button');
