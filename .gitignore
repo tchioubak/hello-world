@@ -1,1 +1,4 @@
 *.swp
+kpriv_id_rsa
+kpub_id_rsa.pub
+
