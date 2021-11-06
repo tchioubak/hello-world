@@ -1,0 +1,1 @@
+# conserver le répertoire .github même quand je n'ai pas de workflow, en laissant ce fichier dedans
